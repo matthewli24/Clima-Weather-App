@@ -2,11 +2,11 @@
 
 # Clima
 
-Starting the app:
-'''
+Starting the app:     
+```
 cd Clima-Weather-App
 open -a Xcode Clima.xcworkspace (because we used Cocoapods)
-'''
+```
 
 ## Our Goal
 
